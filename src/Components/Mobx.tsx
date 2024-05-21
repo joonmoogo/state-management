@@ -1,5 +1,5 @@
 import { observer } from "mobx-react";
-import React, { useState } from "react";
+import React from "react";
 import { Counter } from "../Util/Mobx";
 
 const counter = new Counter();
